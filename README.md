@@ -21,7 +21,8 @@ Pandas gives you answers about the data. Like:
 * Max value?
 * Min value?
 
-# KKB: Pandas are also able to delete rows that are not relevant, or contains wrong values, like empty or NULL values. This is called cleaning the data.
+# KKB: 
+Pandas are also able to delete rows that are not relevant, or contains wrong values, like empty or NULL values. This is called cleaning the data.
 
 
-#  The source code for Pandas is located at this github repository https://github.com/pandas-dev/pandas
+* The source code for Pandas is located at this github repository https://github.com/pandas-dev/pandas
